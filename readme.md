@@ -68,3 +68,18 @@ Home page, for now just displays some lorem ipsum text. Here is the code that we
             </section>
         </main>
  ```
+
+
+## Styling
+
+### Components
+
+This will contain the styling of individual components which are as following at the moment:
+- Header
+- Footer
+
+### Defaults
+This will contain the default variables such as color, breakpoojnts, etc.
+
+### Pages
+This will contain the styling of each individual HTML pages.
